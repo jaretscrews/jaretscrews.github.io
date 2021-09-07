@@ -109,6 +109,7 @@ section.mission-section {
   background: var(--primary-color);
   color: var(--secondary-color);
   text-align: center;
+  font-size: 1.4em;
 }
 
 section.artists-section h2 {
@@ -364,6 +365,7 @@ nav li:hover {
   /* Rounded corners */
   font-size: 18px;
   /* Increase font size */
+  border: 3px solid black;
 }
 
 #myBtn:hover {

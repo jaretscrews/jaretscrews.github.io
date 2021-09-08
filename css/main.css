@@ -5,6 +5,10 @@
   --secondary-color: #fcf8ee;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--secondary-color);
   margin: 0;

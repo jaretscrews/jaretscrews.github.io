@@ -5,6 +5,10 @@
     --secondary-color: #fcf8ee;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: var(--secondary-color);
     margin: 0;
@@ -132,8 +136,6 @@ section.artists-section {
             }
         }
     }
-    
-    
 
     blockquote {
         margin-bottom: 2em;
@@ -298,8 +300,6 @@ nav {
         text-align: left;
         align-items: center;
         justify-content: space-between;
-
-        
 
         .left-col {
             margin: 3em 3em 0 5em;

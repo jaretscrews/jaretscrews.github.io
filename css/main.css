@@ -13,7 +13,6 @@ body {
   background: var(--secondary-color);
   margin: 0;
   font-family: "Poppins";
-  font-size: 20;
 }
 
 .navbar {
@@ -53,7 +52,7 @@ a {
 
 h2 {
   text-align: center;
-  font-size: 2em;
+  font-size: 2.3em;
 }
 
 ul {
@@ -113,6 +112,9 @@ section.mission-section {
   background: var(--primary-color);
   color: var(--secondary-color);
   text-align: center;
+}
+
+section.mission-section p {
   font-size: 1.4em;
 }
 
